@@ -24,7 +24,8 @@
           "quickstart"
         ]
       },
-      "start"
+      "start",
+      "verse-perma-spoofer"
     ],
     "global": {
       "anchors": [
